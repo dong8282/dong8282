@@ -1,9 +1,16 @@
-Hi there 👋
+Hi, my name is Seo Dong-hee 👋
+I like learning various knowledge.🙂
+
+- 🌱 I’m currently learning
+
+
+- ⚡ I’m use something like
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
